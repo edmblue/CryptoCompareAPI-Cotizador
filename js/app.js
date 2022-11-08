@@ -1,7 +1,3 @@
-//los name tienen que coincidir con los nombres de las propiedades en el pbjeto
-//error alerta
-//precio p precio soan para el priceg
-
 const criptomonedaSelect = document.querySelector('#criptomonedas');
 const monedaSelect = document.querySelector('#moneda');
 const formulario = document.querySelector('#formulario');
